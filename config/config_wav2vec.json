@@ -1,0 +1,20 @@
+{
+    "in_channels": null,
+    "hidden_channels": null,
+    "use_graph": false,
+    "all_connected": false,
+    "fc_dim": null,
+    "num_hidden_layers": null,
+    "learning_rate": 1e-5,
+    "mixup": null,
+    "tam_batch": 2,
+    "len_window": null,
+    "stride": null,
+    "out_wav2vec": 1024,
+    "connect_k_nodes": null,
+    "num_augmented": 15,
+    "epochs": 10,
+    "fine_tune": false,
+    "just_embeddings": false,
+    "save_model": true
+}
